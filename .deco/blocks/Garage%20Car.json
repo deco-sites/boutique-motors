@@ -16,7 +16,7 @@
   },
   "mode": "light",
   "mainColors": {
-    "primary": "#9db229",
+    "primary": "#FF2401",
     "secondary": "#2F2E2E"
   },
   "complementaryColors": {
@@ -28,11 +28,11 @@
     "fonts": [
       {
         "variations": [],
-        "family": "Archivo"
+        "family": "Segoe"
       },
       {
         "variations": [],
-        "family": "Public Sans"
+        "family": "Inter"
       }
     ]
   }
