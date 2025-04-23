@@ -80,7 +80,7 @@
         "__resolveType": "site/sections/video.tsx",
         "title": "<p>Veja como é fácil e seguro</p>",
         "description": "Seu carro pode valer mais do que você pensa!",
-        "videoUrl": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/car-selling/6e20bb57-efa8-4238-9f74-8e8a242a1259/GARAGECAR---ANUNCIO-HORIZONTAL-AJUSTADO-(1)-(online-video-cutter.com).mp4",
+        "videoUrl": "https://www.youtube.com/watch?v=-4Hier8ZBAM",
         "height": 250,
         "marginBottom": -50,
         "marginTop": 40
@@ -223,14 +223,6 @@
       "sectionId": "unidades",
       "map": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d863.7689639304136!2d-51.1900465!3d-30.0059782!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951976fb4b58c411%3A0xa04c3e2274b0068b!2sGarageCar%20%7C%20Compra%20e%20Venda%20de%20Ve%C3%ADculos!5e0!3m2!1spt-BR!2sbr!4v1725263121156!5m2!1spt-BR!2sbr\" width=\"100%\" height=\"100%\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
       "banners": [
-        {
-          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/car-selling/679963b8-7f1f-414a-8349-8b7305223b6f/download-(1).webp",
-          "alt": "GarageCar Unidade Porto Alegre"
-        },
-        {
-          "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/car-selling/9725f76f-b1be-473f-addf-08915e9f0f63/186b5307-7382-4c34-b916-db55413ad07c.jpg",
-          "alt": "GarageCar Unidade Porto Alegre"
-        },
         {
           "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/car-selling/2bac7a17-a392-4aeb-b64b-5c2900ed2d1a/IMG_1945.jpg",
           "alt": "GarageCar Unidade Porto Alegre"
