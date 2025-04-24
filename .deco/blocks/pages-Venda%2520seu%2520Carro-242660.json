@@ -265,6 +265,5 @@
       ]
     }
   ],
-  "__resolveType": "website/pages/Page.tsx",
-  "path": "/"
+  "__resolveType": "website/pages/Page.tsx"
 }
