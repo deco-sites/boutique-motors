@@ -1,6 +1,6 @@
 {
   "name": "Venda seu Carro",
-  "path": "/vender",
+  "path": "/",
   "sections": [
     {
       "__resolveType": "site/sections/Header.tsx",
@@ -251,7 +251,13 @@
       }
     },
     {
-      "__resolveType": "Footer"
+      "__resolveType": "site/sections/Footer.tsx",
+      "href": "/",
+      "text": "© 2024. GarageCar. Todos os Direitos Reservados.",
+      "image": "https://assets.decocache.com/boutique-motors/2e6d81d9-e249-4a87-9c72-bf46c4d389ae/Imagem-do-WhatsApp-de-2025-04-19-a(s)-14.31.28_f7745227.jpg",
+      "alt": "GarageCar Veiculos",
+      "width": 64,
+      "height": 64
     },
     {
       "__resolveType": "website/sections/Analytics/Analytics.tsx",
