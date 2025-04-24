@@ -220,7 +220,7 @@
       "__resolveType": "site/sections/Maps.tsx",
       "title": "Venha nos visitar",
       "sectionId": "unidades",
-      "map": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d863.7689639304136!2d-51.1900465!3d-30.0059782!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951976fb4b58c411%3A0xa04c3e2274b0068b!2sGarageCar%20%7C%20Compra%20e%20Venda%20de%20Ve%C3%ADculos!5e0!3m2!1spt-BR!2sbr!4v1725263121156!5m2!1spt-BR!2sbr\" width=\"100%\" height=\"100%\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe>",
+      "map": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d863.7689639304136!2d-51.1900465!3d-30.0059782!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951976fb4b58c411%3A0xa04c3e2274b0068b!2sGarageCar%20%7C%20Compra%20e%20Venda%20de%20Ve%C3%ADculos!5e0!3m2!1spt-BR!2sbr!4v1725263121156!5m2!1spt-BR!2sbr\" width=\"100%\" height=\"100%\" style=\"border:0;\" allowfullscreen=\"\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe><iframe    src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3669.3579843292945!2d-45.903761099999996!3d-23.215314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cc4b87a80048e7%3A0x164427c678dbd0b5!2sBoutique%20Motors!5e0!3m2!1spt-BR!2sbr!4v1713976794291!5m2!1spt-BR!2sbr\"    width=\"100%\"    height=\"100%\"    style=\"border:0;\"    allowfullscreen=\"\"    loading=\"lazy\"    referrerpolicy=\"no-referrer-when-downgrade\"> </iframe>",
       "banners": [
         {
           "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/car-selling/2bac7a17-a392-4aeb-b64b-5c2900ed2d1a/IMG_1945.jpg",
