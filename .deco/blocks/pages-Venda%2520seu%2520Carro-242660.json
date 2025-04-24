@@ -34,7 +34,7 @@
       "title": "O melhor lugar para vender o seu carro",
       "description": "Somos uma empresa que compra seu carro em até 30 minutos. O pagamento é sempre à vista! Sem tempo? Avaliamos seu veículo onde você estiver!",
       "airtable": {
-        "baseId": "appV3Crbm9IGFItCT",
+        "baseId": "appzzwOdJCxeLkj8E",
         "tableId": "tblBcySEG6YdC24ab",
         "authToken": "patNORziOSBmYP0f9.88756bd9a0fdb4dde9e14c62fef14e15af7f139addba279bf5d3319e648fb3d5"
       },
@@ -241,7 +241,7 @@
       "title": "Preencha seus dados para receber uma avaliação",
       "sectionId": "contato",
       "airtable": {
-        "baseId": "appV3Crbm9IGFItCT",
+        "baseId": "appzzwOdJCxeLkj8E",
         "tableId": "tblBcySEG6YdC24ab",
         "authToken": "patNORziOSBmYP0f9.88756bd9a0fdb4dde9e14c62fef14e15af7f139addba279bf5d3319e648fb3d5"
       },
