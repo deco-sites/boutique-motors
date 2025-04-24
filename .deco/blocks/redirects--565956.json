@@ -1,7 +1,7 @@
 {
   "redirect": {
     "from": "/",
-    "to": "/vender",
+    "to": "/",
     "type": "permanent"
   },
   "__resolveType": "website/loaders/redirect.ts"
