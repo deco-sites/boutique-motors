@@ -175,15 +175,15 @@
       "title": "Ainda tem dúvidas?",
       "questions": [
         {
-          "content": "Sim, fazemos uma avaliação prévia do seu veículo e, na sequência, combinamos se a avaliação presencial acontecerá em nossa loja ou no seu endereço (dentro da região metropolitana).",
-          "label": "Não estou em Porto Alegre, posso vender para a GarageCar?"
+          "content": "Sim, fazemos uma avaliação prévia do seu veículo e, na sequência, combinamos se a avaliação presencial acontecerá em nossa loja ou no seu endereço (mediante disponibilidade).",
+          "label": "Não estou em São José dos Campos, posso vender para a Boutique Motors?"
         },
         {
           "label": "Posso vender qualquer tipo de carro?",
           "content": "Compramos diversos tipos de carros, desde populares até modelos premium, a partir de 2010, com até 100.000km rodados e, no mínimo: ar condicionado e direção hidráulica. Todos os veículos passam por nossa criteriosa avaliação. Pequenas avarias que podem ser consertadas não nos impedem de fazer negócio. Você pode verificar se o seu carro atende aos nossos requisitos preenchendo o formulário na página vender do site ou entrando em contato pelo WhatsApp."
         },
         {
-          "label": "Como a GarageCar define o valor ofertado por um carro?",
+          "label": "Como a Boutique Motors define o valor ofertado por um carro?",
           "content": "Buscamos avaliar os carros de acordo com a sua demanda. Isso porque determinados modelos são mais requisitados por nossos compradores, enquanto outros têm menos procura no mercado, o que nos exige trabalhar com maiores margens de preço. Além disso, levamos em consideração a facilidade de manutenção do veículo, como troca de peças e realização de serviços mecânicos."
         },
         {
@@ -191,11 +191,11 @@
           "content": "Levamos em conta diversos detalhes do veículo, principalmente: funcionamento de motor e cambio, estado da lataria, nível de desgaste do estofamento e realizamos um teste de rodagem para avaliar o funcionamento do carro e a eventual necessidade de reparos mecânicos. É também na inspeção que averiguamos se o veículo passou por algum dano que possa ter afetado a sua estrutura, tornando o negócio inviável."
         },
         {
-          "label": "Quanto tempo leva para vender o meu carro na GarageCar?",
+          "label": "Quanto tempo leva para vender o meu carro na Boutique Motors?",
           "content": "Nós oferecemos duas modalidades de venda: imediata, em que o pagamento é feito à vista, no  fechamento do negócio; e por consignação, em que o cliente aguarda a Garagecar efetuar a venda e, então, receber o valor acertado."
         },
         {
-          "label": "A GarageCar compra meu carro com financiamento?",
+          "label": "A Boutique Motors compra meu carro com financiamento?",
           "content": "Sim, o valor de quitação deverá ser consultado junto à financeira. Ao fechar o negócio, o seu carro será quitado e o valor descontado do preço final da avaliação."
         },
         {
@@ -203,15 +203,15 @@
           "content": "Não há cobranças ou taxas extras. Porém, em casos de consignação, podem ser necessários alguns serviços que serão previamente acertados com nossos clientes."
         },
         {
-          "label": "Se a documentação do meu carro tiver alguma pendência, a GarageCar me ajuda a resolver?\"",
+          "label": "Se a documentação do meu carro tiver alguma pendência, a Boutique Motors me ajuda a resolver?\"",
           "content": "Sim, contamos com uma equipe capacitada para resolver pendências junto ao DETRAN ou a financeiras, sendo esses valores deduzidos no valor da compra do seu veículo. Pois regularizamos toda a documentação para a sua posterior venda."
         },
         {
-          "label": "Como a GarageCar procede se o meu carro apresentar alguma adulteração?",
+          "label": "Como a Boutique Motors procede se o meu carro apresentar alguma adulteração?",
           "content": "Acreditamos na idoneidade dos nossos clientes, mas se notarmos alguma irregularidade técnica ou jurídica no seu veículo, nos sentimos na obrigação de colaborar com as autoridades."
         },
         {
-          "label": "Por que fechar negócio com a GarageCar?",
+          "label": "Por que fechar negócio com a Boutique Motors?",
           "content": "Somos uma empresa que atua há mais de 11 anos no mercado automotivo e é reconhecida por ser transparente, confiável e próxima dos seus clientes. Temos uma equipe completa para resolver tudo o que for necessario no fechamento do negócio."
         }
       ]
