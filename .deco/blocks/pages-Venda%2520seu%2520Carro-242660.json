@@ -92,22 +92,22 @@
       "steps": [
         {
           "label": "Whatsapp",
-          "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/car-selling/dd23dc15-7cdd-481f-9641-43e1189c1dba/icone-2.png",
+          "icon": "https://assets.decocache.com/boutique-motors/7d1a1855-3aaa-400b-8286-63d01c13107c/form.png",
           "text": "Preencha o Formulário com os seus melhores contatos"
         },
         {
           "label": "Avaliação Técnica",
-          "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/car-selling/76595e21-f3c2-4bdf-8994-b93047a5ac5a/icone-1.png",
+          "icon": "https://assets.decocache.com/boutique-motors/edfa5f81-4f9d-4e5a-8ad4-c0ec7d926a57/Car.png",
           "text": "Agende uma avaliação técnica em nossa loja ou no seu endereço"
         },
         {
           "label": "Formalização",
-          "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/car-selling/a7aadb3e-63ed-473f-ac41-def75e71e5c3/icone-3.png",
+          "icon": "https://assets.decocache.com/boutique-motors/24c94627-3614-4ab5-b73b-f5be7b4d9980/like-shapes.png",
           "text": "Realize a formalização dos documentos em cartório"
         },
         {
           "label": "Pagamento",
-          "icon": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/car-selling/bdd73cd4-cf28-4ab3-b145-ff8e3ccd6eb9/icone-4.png",
+          "icon": "https://assets.decocache.com/boutique-motors/8d5a08b3-a8aa-4a3c-b87b-4a27eb21b20f/money-send.png",
           "text": "Receba o pagamento de forma segura em sua conta"
         }
       ],
