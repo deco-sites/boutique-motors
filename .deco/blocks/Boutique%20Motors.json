@@ -28,11 +28,11 @@
     "fonts": [
       {
         "variations": [],
-        "family": "Segoe"
+        "family": "inter"
       },
       {
         "variations": [],
-        "family": "Inter"
+        "family": "Space Grotesk"
       }
     ]
   }
